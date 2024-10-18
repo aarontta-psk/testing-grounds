@@ -1,3 +1,0 @@
-@echo ON
-
-echo "Building..."

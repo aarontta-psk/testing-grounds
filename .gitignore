@@ -400,5 +400,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Custom directories
-./out
-./tmp
+/out
+/tmp
