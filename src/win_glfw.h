@@ -1,7 +1,8 @@
+#pragma once
 #ifndef WIN_GLFW_H
 #define WIN_GLFW_H
 
-class GLFWwindow;
+struct GLFWwindow;
 
 class WinGLFW {
 public:

@@ -1,3 +1,4 @@
+#pragma once
 #ifndef WIN_GLUT_H
 #define WIN_GLUT_H
 
